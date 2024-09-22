@@ -138,7 +138,7 @@ public class Operators {
         System.out.println(a >= b);
         System.out.println(a <= b);
 
-        // instanceof
+        // instanceof operator checks whether an object is an instanceof a particular class
         System.out.println("instanceof operator");
         String str = "Programiz";
         boolean result;
